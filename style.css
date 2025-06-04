@@ -1,0 +1,26 @@
+/* style.css */
+
+/* Navbar styling */
+nav {
+    background-color: rgb(169, 27, 27); /* Dark background color */
+    padding: 10px;
+    text-align: center; /* Center align navbar links */
+  }
+  
+  nav a {
+    color: rgb(236, 236, 240); /* White text color */
+    text-decoration: none; /* Remove underline */
+    margin: 0 15px; /* Space between links */
+    font-size: 16px; /* Text size */
+  }
+  
+  nav a:hover {
+    text-decoration: underline; /* Underline on hover */
+    color: #ff9900; /* Change color on hover */
+  }
+  
+  nav a.active {
+    font-weight: bold; /* Make the active link bold */
+    color: #ff9900; /* Highlight the active link */
+  }
+  

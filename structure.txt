@@ -1,0 +1,10 @@
+Project Structure**
+
+- index.php (home page with navbar)
+- register.php (registration form)
+- login.php (login form)
+- main.php (main page after login)
+- db.php (database connection)
+- process_register.php (handles registration)
+- process_login.php (handles login)
+- style.css (minimal CSS)
